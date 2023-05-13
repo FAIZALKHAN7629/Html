@@ -57,7 +57,7 @@ nav{
 }
 
 .body{
-    background: url(/body.jpg);
+    background: url("body.jpg");
     min-height: 100vh;
     display: flex ;
     justify-content: center;
